@@ -1,2 +1,2 @@
-# Hello_Word
+# Hello_World
 Criação do primeiro repositório no GitHub.
